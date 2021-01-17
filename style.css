@@ -1,0 +1,27 @@
+h1 {
+  display: inline;
+}
+
+h3 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h4 {
+  color: orange;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h5 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+img {
+  max-width: 150px;
+}
+
+.col {
+  color: orange;
+}
